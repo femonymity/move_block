@@ -1,0 +1,13 @@
+body {
+  background-color: #e4b04a;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+p {
+  text-align: center;
+
+}
+canvas {
+  background: #efe089;
+  display: block;
+  margin: 20% auto 1%;
+}
